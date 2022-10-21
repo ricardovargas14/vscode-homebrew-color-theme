@@ -1,8 +1,9 @@
 {
   "name": "homebrew-theme",
-  "displayName": "homebrew theme",
+  "displayName": "Homebrew Theme",
   "description": "vscode homebrew color theme",
   "version": "0.0.1",
+  "publisher": "ricardo-vargas",
   "engines": {
     "vscode": "^1.72.0"
   },
